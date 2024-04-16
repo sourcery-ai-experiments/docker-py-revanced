@@ -1,1 +1,44 @@
-{}
+{
+    "ReVanced/GmsCore": {
+        "ResourceName": "[ReVanced/GmsCore](https://github.com/ReVanced/GmsCore/releases/tag/v0.3.1.4.240913)",
+        "Version": "v0.3.1.4.240913",
+        "Changelog": "# Download\r\n\r\n| Default | Huawei, Xiaomi |\r\n| -------- | -------- |\r\n| [Download](https://github.com/ReVanced/GmsCore/releases/download/v0.3.1.4.240913/app.revanced.android.gms-240913008-signed.apk) |  [Download](https://github.com/ReVanced/GmsCore/releases/download/v0.3.1.4.240913/app.revanced.android.gms-240913008-hw-signed.apk) |\r\n",
+        "PublishedOn": "2024-04-05T02:37:11Z"
+    },
+    "REAndroid/APKEditor": {
+        "ResourceName": "[REAndroid/APKEditor](https://github.com/REAndroid/APKEditor/releases/tag/V1.3.7)",
+        "Version": "V1.3.7",
+        "Changelog": "## What's Changed\r\n* Update internal framework to android-35 (VanillaIceCream)\r\n* Support compact resource entries #93 \r\n* Fix error when encoding id type resource entries #95 \r\n* Correct determination of base module during merge: https://github.com/REAndroid/ARSCLib/pull/63 by @Kirlif ",
+        "PublishedOn": "2024-04-05T21:24:58Z"
+    },
+    "revanced/revanced-cli": {
+        "ResourceName": "[revanced/revanced-cli](https://github.com/ReVanced/revanced-cli/releases/tag/v4.6.0)",
+        "Version": "v4.6.0",
+        "Changelog": "# [4.6.0](https://github.com/ReVanced/revanced-cli/compare/v4.5.0...v4.6.0) (2024-04-01)\n\n\n### Bug Fixes\n\n* Copy APK to output path when it is not being signed ([366f400](https://github.com/ReVanced/revanced-cli/commit/366f400c5a46491f3f262c7ff4b0df1ae3721f74))\n* Use correct option description ([45a2ffa](https://github.com/ReVanced/revanced-cli/commit/45a2ffa2dd95ee8ac3c4d466463c9a5b869b8da1))\n\n\n### Features\n\n* Use more consistent option name ([223629c](https://github.com/ReVanced/revanced-cli/commit/223629c663dcd94d237110e09e4e152aa03867f9))\n\n\n\n",
+        "PublishedOn": "2024-04-01T14:57:09Z"
+    },
+    "anddea/revanced-integrations": {
+        "ResourceName": "[anddea/revanced-integrations](https://github.com/anddea/revanced-integrations/releases/tag/v0.151.0-dev.6)",
+        "Version": "v0.151.0-dev.6",
+        "Changelog": "# [0.151.0-dev.6](https://github.com/anddea/revanced-integrations/compare/v0.151.0-dev.5...v0.151.0-dev.6) (2024-04-16)\n\n\n### Bug Fixes\n\n* **YouTube:** Add master parent for keyword content ([4343c54](https://github.com/anddea/revanced-integrations/commit/4343c54078bc333d37edb5bb1c5ab0fac0e9b652))\n\n\n\n",
+        "PublishedOn": "2024-04-16T13:18:34Z"
+    },
+    "anddea/revanced-patches": {
+        "ResourceName": "[anddea/revanced-patches](https://github.com/anddea/revanced-patches/releases/tag/v2.224.0-dev.6)",
+        "Version": "v2.224.0-dev.6",
+        "Changelog": "# [2.224.0-dev.6](https://github.com/anddea/revanced-patches/compare/v2.224.0-dev.5...v2.224.0-dev.6) (2024-04-16)\n\n\n### Features\n\n* **YouTube - Visual preferences icons:** Icon for Extended setting based on `Custom branding icon` ([a674b1a](https://github.com/anddea/revanced-patches/commit/a674b1af1cf0a326ba6a3678f0da26d6ba7558ce))\n\n\n\n",
+        "PublishedOn": "2024-04-16T13:18:41Z"
+    },
+    "crimera/revanced-integrations": {
+        "ResourceName": "[crimera/revanced-integrations](https://github.com/crimera/revanced-integrations/releases/tag/v1.13.0-dev.1)",
+        "Version": "v1.13.0-dev.1",
+        "Changelog": "## [1.13.0-dev.1](https://github.com/crimera/revanced-integrations/compare/v1.12.1-dev.1...v1.13.0-dev.1) (2024-04-15)\n\n\n### Features\n\n* **Twitter:** Added ability to export and import prefs & feature flags ([f87d4ed](https://github.com/crimera/revanced-integrations/commit/f87d4edfedeb77cd459e02f3513b498fc9b461db))\n* **Twitter:** Added ability to export and import prefs & feature flags ([e13fc7e](https://github.com/crimera/revanced-integrations/commit/e13fc7ef7a7c99634b3b7ccbcf836428556fccc9))\n\n",
+        "PublishedOn": "2024-04-15T14:21:16Z"
+    },
+    "crimera/piko": {
+        "ResourceName": "[crimera/piko](https://github.com/crimera/piko/releases/tag/v1.23.0-dev.6)",
+        "Version": "v1.23.0-dev.6",
+        "Changelog": "## [1.23.0-dev.6](https://github.com/crimera/piko/compare/v1.23.0-dev.5...v1.23.0-dev.6) (2024-04-16)\n\n\n### Bug Fixes\n\n* Missing `,` ([67675fe](https://github.com/crimera/piko/commit/67675fe381f0554cb69c0f061ec792df9e523479))\n\n\n### Features\n\n* **Translations:** Add `Turkish` ([bf70b91](https://github.com/crimera/piko/commit/bf70b913775ec299a87725b15d30bb2506da7a5d))\n* **Translations:** Update Russian translation ([54ba664](https://github.com/crimera/piko/commit/54ba664921218ce79218e4ce4a9a2d4d2d1cf1b6))\n* **Translations:** Updated Brazilian Portuguese ([e25ec0e](https://github.com/crimera/piko/commit/e25ec0ecee9e576f6fe74c2bf70d750399275b7e))\n\n",
+        "PublishedOn": "2024-04-16T01:39:23Z"
+    }
+}
